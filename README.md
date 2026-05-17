@@ -18,7 +18,7 @@ Image-downloader
 5) urllib
 6) Instaloader
 
-### Project-setup
+## Project-setup
 1) Clone the project<br><pre><code>git clone https://github.com/JashJani02/Image-downloader.git</code></pre>
 2) Change directory to Parent folder<br><pre><code>cd Image-downloader</code></pre>
 3) Create Python Virtual Environment<br><pre><code>python -m venv </code></pre>
